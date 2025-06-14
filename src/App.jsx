@@ -8,7 +8,7 @@ import Yawthentic from './pages/Yawthentic';
 import HausStudios from './pages/HausStudios';
 import HausSpring from './pages/HausSpring';
 import HausHarvest from './pages/HausHarvest';
-import Contact from './pages/Contact';
+import Contact from './pages/contact';
 
 export default function App() {
   return (
